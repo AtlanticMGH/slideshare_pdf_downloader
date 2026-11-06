@@ -29,8 +29,6 @@ playwright install chromium
 playwright install-deps chromium
 ```
 
-Step 4 usually requires `sudo` on Debian/Ubuntu.
-
 ## Usage
 
 ```bash
